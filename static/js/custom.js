@@ -157,8 +157,10 @@ Copyright (c) 2019 - themepaa
             speed: 200,
             loop:true,
             strings: [
-              'Designer',
-              'Developer'
+              '2021',
+              'Marca personal',
+              'Descriptiva',
+              'S-Marketing'
             ],
             breakLines: false
         }); 
