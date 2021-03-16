@@ -159,7 +159,7 @@ Copyright (c) 2019 - themepaa
             strings: [
               '2021',
               'Marca personal',
-              'Descriptiva',
+              'Empresas',
               'S-Marketing'
             ],
             breakLines: false
